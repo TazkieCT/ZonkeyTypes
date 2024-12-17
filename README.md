@@ -1,4 +1,4 @@
-# ZonkeyTypes
+# ZonkeyType
 
 # Hayoo ngapain liat liat? Mau nyontek? 😜🐒
 JANGAN SAMPAI DI CUT KAK! ✂️✂️✂️
@@ -21,4 +21,4 @@ EZ kan ya?
 
 # 🙉🙈🙊
 
-Referensi: MonkeyType 
+Referensi: **MonkeyType**
