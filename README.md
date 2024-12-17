@@ -1,9 +1,9 @@
 # ZonkeyTypes
 
-# Hayoo ngapain liat liat? Mau nyontek? 😜
-JANGAN SAMPAI DI CUT KAK!
+# Hayoo ngapain liat liat? Mau nyontek? 😜🐒
+JANGAN SAMPAI DI CUT KAK! ✂️✂️✂️
 
-## Minimal Bisa Ngetik!
+## Minimal Udah Bisa Ngetik!
 
 ## Tolong Selesaikan Case Ini!
 
@@ -15,8 +15,10 @@ JANGAN SAMPAI DI CUT KAK!
 
 EZ kan ya?
 
-## License
-BISALAH SELESAI NI CASENYA 25-1, JANGAN SAMPAI DI EXTEND KAK!!
----
+#### JANGAN JADI NINJA 🙊 
+#### JANGAN BATU 🙉 
+#### JANGAN SKIP-SKIP 🙈
 
-Referensi: MonkeyType
+# 🙉🙈🙊
+
+Referensi: MonkeyType 
